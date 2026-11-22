@@ -4,7 +4,7 @@ description: Draft website updates for Mona's GitHub Info site from official Git
 on:
   workflow_dispatch:
   schedule:
-    - cron: '17 9 * * *'
+    - cron: '10 10 * * *'
 safe-outputs:
   create-pull-request:
     title-prefix: "[mona] "
