@@ -21,6 +21,7 @@ network:
 engine:
    id: copilot
    copilot-sdk: true
+model: gpt-5
 ---
 
 # Update Mona's GitHub Info website
